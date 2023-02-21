@@ -1,6 +1,6 @@
 # Challenge BE Application
 
-The Xpand IT team is interested in my professional profile so they decided to move forward and check my technical skills as well. To do that they present me this challenge which consist on the enhancement of a simple REST API (HTTP/JSON), that will be consumed by a Front-End application.
+I was presented to a challenge which consist on the enhancement of a simple REST API (HTTP/JSON), that will be consumed by a Front-End application.
 
 ## Technologies:
 
